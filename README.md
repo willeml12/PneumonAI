@@ -1,6 +1,6 @@
 # PneumonAI
 Pneumonia is a fairly common respiratory infection both for adults and children. According to the World Health Organisation, pneumonia has killed more than 740 000 children in 2019, making the disease responsible of 14% of deaths of patient under the age of five years old. Its diagnosis can be done by analysing chest X-rays of the patient, a task for which deep learning has shown great performances. However, hospitals may not all be able to deploy such models due to lack of expertise in the field and sheer costs of state-of-the-art technologies. In order to answer this need, this project describes the development of an interpretable Open Source Convolution Neural Network (CNN) solution using transfer learning. The proposed model reaches an accuracy of 86.86%. In addition, a Grad-CAM heatmap is proposed to allow a better interpretation of the prediction of the model. Thanks to insights offered by healthcare professional, a final discussion studies the features highlighted through the Grad CAM visualisation and offers leads to future work on the matter at hand thanks to this analysis.
 ## Author
-PneumonAI was created as Laureline Willem's master's thesis.
+PneumonAI was created as Laureline Willem's master's thesis at UCLouvain.
 ## License
 The following work is made available under MIT license.
